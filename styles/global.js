@@ -2,6 +2,7 @@ import {StyleSheet} from"react-native"
 
  export const globalStyles = StyleSheet.create({
    container: {
+     width: '100%',
      padding: 20,
      flex: 1,
    },
